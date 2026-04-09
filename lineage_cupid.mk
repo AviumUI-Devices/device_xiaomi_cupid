@@ -28,8 +28,8 @@ WITH_GMS := true
 TARGET_USES_GSANS := true
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc="cupid_global-user 15 AQ3A.241006.001 OS2.0.209.0.VLCMIXM release-keys" \
-    BuildFingerprint=Xiaomi/cupid_global/cupid:15/AQ3A.241006.001/OS2.0.209.0.VLCMIXM:user/release-keys \
+    BuildDesc="cupid_global-user 15 AQ3A.250226.002 OS3.0.3.0.VLCMIXM release-keys" \
+    BuildFingerprint=Xiaomi/cupid_global/cupid:15/AQ3A.250226.002/OS3.0.3.0.VLCMIXM:user/release-keys \
     DeviceProduct=cupid \
     SystemName=cupid_global
 
